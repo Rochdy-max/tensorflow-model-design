@@ -1,2 +1,2 @@
 # tensorflow-model-design
-Present some Neural Networks Architectures
+An overview of some Neural Networks Architectures with Tensorflow
